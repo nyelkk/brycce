@@ -1,0 +1,41 @@
+@media screen and (max-width: 520px){
+    footer .footerlogo img {
+        margin-top: 15px;
+        width: 60px;
+    }
+    footer .footerinfo{
+        margin: 2px;
+        font-size: 7px;
+    }
+    footer .about{
+        font-size: 7px;
+        max-width: 130px;
+    }
+    footer{
+        height: 130px;
+    }
+    header nav{
+        display: none;
+    }
+    main #main_logo{
+        width: 120px;
+    }
+    main #maintitle{
+        font-size: 40px;
+    }
+    main p{
+        font-size: 12px;
+    }
+    main h1{
+        font-size: 40px;
+    }
+    main .galery{
+        flex-direction: column;
+        align-items: center;
+    }
+    main .galery img{
+        width: 55%;
+        margin: 10px;
+        border-radius: 10px;
+    }
+}
