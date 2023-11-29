@@ -11,7 +11,8 @@
 
 Projeto não completo, pretendo adicionar muitas coisas ainda. Por enquanto funcionando apenas como landing page.
 
-- `Apenas navegação pelo Web Site`
+- `Acessar sections do site pela Nav.`
+- `Redirecionamento pro contato da Loja pela Nav.`
 
 
 ## 🚀 Informações sobre responsividade:
