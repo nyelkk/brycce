@@ -17,7 +17,7 @@ Projeto não completo, pretendo adicionar muitas coisas ainda. Por enquanto func
 
 ## 🚀 Informações sobre responsividade:
 
-- `WebSite totalmente responsivo. Funcionando tanto na versão Desktop como na Mobile.`
+- `WebSite totalmente responsivo. Funcionando tanto na versão Desktop como no Mobile.`
 
 ## ☕ Tecnologias Exploradas nesse Site:
 <br>
